@@ -5,3 +5,6 @@ this is a description!
 ## THIS IS A SUBHEADER
 
 I'm currently still watching the yt tutorial!
+
+# IMPORTANT RULES!
+1. Have fun! ^^
